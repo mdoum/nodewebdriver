@@ -10,5 +10,3 @@ function convertNumToString(number){
 function convertNumToString2(number){
     
 }
-
-function 
